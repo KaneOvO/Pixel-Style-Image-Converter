@@ -1,6 +1,9 @@
 # Pixel-Style-Image-Converter
 
+# Project deployment link: https://kaneovo.github.io/Pixel-Style-Image-Converter/
+
 Choose: 2. A Data Manipulation Tool
+
 
 
 In this project, I created a pixel art style image converter that accepts a user-uploaded image and uses the nearest neighbor interpolation method to compress and enlarge the image, achieving a pixel art style transformation. Users can customize the scale factor to try for the best results. The inspiration for this project came from a video on https://www.youtube.com/watch?v=CHxXL7A8ZpY, which discussed how to convert images into pixel art using Photoshop and introduced me to the nearest neighbor interpolation method.
