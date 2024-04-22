@@ -1,6 +1,6 @@
 # Pixel-Style-Image-Converter
 
-# Project deployment link: https://kaneovo.github.io/Pixel-Style-Image-Converter/
+Project deployment link: https://kaneovo.github.io/Pixel-Style-Image-Converter/
 
 Choose: 2. A Data Manipulation Tool
 
